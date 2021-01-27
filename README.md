@@ -1,6 +1,6 @@
 ## Hi there, I'm Linda 👋
 
-- 🔭 I’m currently working on my PhD in Health Sciences.
+- 🔭 I’m currently working on my PhD in Health Sciences at [Kambeitz Lab](www.kambeitzlab.com).
 - 🌱 I’m currently learning how to make more beautiful presentation using R-Markdown.
 - 📫 How to reach me: linda.betz@uk-koeln.de 
 - 😄 Pronouns: she/her
