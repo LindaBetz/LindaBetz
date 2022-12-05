@@ -1,3 +1,4 @@
 ## Hi there, I'm Linda 👋
 
-📬 You can reach me at lindabetz19@gmail.com.
+📬 Please contact me at lindabetz19@gmail.com, for example, if you have questions about codes from my previous publications.
+
